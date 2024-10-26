@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/matrix.h
+iostream
+-
+vector
+-
+math.h
+-
+cstdlib
+-
+fstream
+-
+iomanip
+-
+time.h
+-
+
+../include/zad1.h
+iostream
+-
+vector
+-
+cmath
+-
+
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/main.cpp
+iostream
+-
+matrix.h
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/matrix.h
+zad1.h
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/zad1.h
+
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/src/zad1.cpp
+zad1.h
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/src/zad1.h
+

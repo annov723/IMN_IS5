@@ -1,0 +1,4 @@
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/build/CMakeFiles/rebuild_cache.dir
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/build/CMakeFiles/edit_cache.dir
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/build/CMakeFiles/run.dir
+/home/stud2022/2nowakan/Phoenix/programming/semestr 5/IMN/IMN_Nowak_Anna_lab_2/build/CMakeFiles/main.dir
